@@ -1,6 +1,7 @@
 # lcids-xml-lang
 xml:lang Attribute Values and Corresponding LCIDs
 
+```
 1025	ar
 1026	bg
 1027	ca
@@ -48,3 +49,4 @@ xml:lang Attribute Values and Corresponding LCIDs
 3098	sr-Cyrl
 4100	zh-SG
 5124	zh-MO
+```
