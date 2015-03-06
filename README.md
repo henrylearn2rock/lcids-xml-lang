@@ -6,6 +6,7 @@ xml:lang Attribute Values and Corresponding LCIDs
 1026	bg
 1027	ca
 1028	zh-TW
+1030	da
 1031	de
 1033	en
 1036	fr
@@ -13,9 +14,10 @@ xml:lang Attribute Values and Corresponding LCIDs
 1039	is
 1040	it
 1041	ja
-1042	ko
+1042	kr
 1043	nl
 1044	no
+1045	pl
 1046	pt-BR
 1048	ro
 1049	ru
@@ -23,6 +25,7 @@ xml:lang Attribute Values and Corresponding LCIDs
 1051	sk
 1053	sv
 1054	th
+1055	tr
 1056	ur
 1057	id
 1058	uk
